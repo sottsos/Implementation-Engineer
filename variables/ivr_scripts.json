@@ -1,0 +1,12 @@
+{
+  "ivr_scripts": {
+    "cancellation_key": " ",
+    "confirmation_key": " ",
+    "greeting_script": " ",
+    "confirm_script": " ",
+    "decline_script": " ",
+    "no_response_script": " ",
+    "monitoring_script": " ",
+    "timeout": 20
+  }
+}
